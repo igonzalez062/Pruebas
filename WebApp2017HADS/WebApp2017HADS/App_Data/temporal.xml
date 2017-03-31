@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Tareas>
+    <Codigo>EDA07-Ej1</Codigo>
+    <Descripcion>Ejercicio sobre listas ligadas</Descripcion>
+    <CodAsig>EDA1</CodAsig>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+  </Tareas>
+</NewDataSet>

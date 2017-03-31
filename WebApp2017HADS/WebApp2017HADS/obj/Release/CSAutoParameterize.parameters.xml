@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HADS20_F2ConnectionString-Web.config Connection String" description="HADS20_F2ConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=1617hads20f2.database.windows.net;Initial Catalog=HADS20_F2;User ID=hads20@1617hads20f2;Password=Ballena1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Iker\\Documents\\Visual\ Studio\ 2012\\Projects\\WebApp2017HADS\\WebApp2017HADS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS20_F2ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

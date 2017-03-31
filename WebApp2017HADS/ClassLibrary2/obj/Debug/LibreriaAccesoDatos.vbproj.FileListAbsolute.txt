@@ -1,0 +1,11 @@
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\bin\Debug\LibreriaAccesoDatos.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\bin\Debug\LibreriaAccesoDatos.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\bin\Debug\LibreriaAccesoDatos.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.Resources.resources
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\bin\Debug\NuGet.Core.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\ClassLibrary2\obj\Debug\LibreriaAccesoDatos.vbprojResolveAssemblyReference.cache

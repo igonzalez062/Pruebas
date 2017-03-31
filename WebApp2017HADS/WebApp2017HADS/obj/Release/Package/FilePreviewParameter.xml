@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="1617HADS20" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Iker\\Documents\\Visual\ Studio\ 2012\\Projects\\WebApp2017HADS\\WebApp2017HADS\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Iker\\Documents\\Visual\ Studio\ 2012\\Projects\\WebApp2017HADS\\WebApp2017HADS\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

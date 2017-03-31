@@ -1,0 +1,17 @@
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\WebApp2017HADS.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\WebApp2017HADS.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\WebApp2017HADS.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaFunciones.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaAccesoDatos.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaFunciones.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaFunciones.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaAccesoDatos.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\LibreriaAccesoDatos.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.vbprojResolveAssemblyReference.cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.Resources.resources
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.vbproj.GenerateResource.Cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\obj\Debug\WebApp2017HADS.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\WebApp2017HADS\bin\NuGet.Core.dll

@@ -1,0 +1,14 @@
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaFunciones.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaFunciones.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaFunciones.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\LibreriaAccesoDatos.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.vbprojResolveAssemblyReference.cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.Resources.resources
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.vbproj.GenerateResource.Cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\obj\Release\LibreriaFunciones.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\Microsoft.Web.XmlTransform.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApp2017HADS\LibreriaFunciones\bin\Release\NuGet.Core.dll
